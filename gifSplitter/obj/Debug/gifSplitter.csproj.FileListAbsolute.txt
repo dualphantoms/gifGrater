@@ -1,0 +1,10 @@
+C:\Users\wilson\source\repos\gifSplitter\obj\Debug\gifSplitter.csprojAssemblyReference.cache
+C:\Users\wilson\source\repos\gifSplitter\obj\Debug\gifSplitter.GifGrater.resources
+C:\Users\wilson\source\repos\gifSplitter\obj\Debug\gifGrater.Properties.Resources.resources
+C:\Users\wilson\source\repos\gifSplitter\obj\Debug\gifSplitter.csproj.GenerateResource.cache
+C:\Users\wilson\source\repos\gifSplitter\obj\Debug\gifSplitter.csproj.CoreCompileInputs.cache
+C:\Users\wilson\source\repos\gifSplitter\bin\Debug\gifGrater.exe.config
+C:\Users\wilson\source\repos\gifSplitter\bin\Debug\gifGrater.exe
+C:\Users\wilson\source\repos\gifSplitter\bin\Debug\gifGrater.pdb
+C:\Users\wilson\source\repos\gifSplitter\obj\Debug\gifGrater.exe
+C:\Users\wilson\source\repos\gifSplitter\obj\Debug\gifGrater.pdb
